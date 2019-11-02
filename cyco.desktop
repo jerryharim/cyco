@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=CyCo
+Comment=CyberCounter
+Exec=/opt/cyco/cyco.py
+Icon=/opt/cyco/logo.png
+Terminal=true
+StartupNotify=true
+Type=Application
+
