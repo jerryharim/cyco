@@ -3,9 +3,8 @@
 
 """
 compteur interne dans un cyber cafe
-Author: Jok3r
-Version
- beta: Jol 22 14:14:10 2018
+Author: jerry harim
+Date de creation : Jol 22 14:14:10 2018
 """
 
 import time 
